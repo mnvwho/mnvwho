@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ether, next, solidity**
 
-- 💬 Ask me about **react, blockchain**
+- 💬 I'm well-versed in **MERN-Stack and blockchain technologies**
 
 - 📫 How to reach me **tannamanav07@gmail.com**
 
